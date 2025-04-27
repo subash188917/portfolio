@@ -30,7 +30,7 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus pariatur sint eos praesentium magni nihil hic nobis ipsum! Nesciunt laborum saepe vero molestiae cum minus blanditiis voluptatem molestias id commodi!",
+    "With a strong foundation in React development and manual testing, I’ve built and optimized web applications, collaborated with cross-functional teams, and led data-driven projects. From starting as a trainee at KVT to contributing to dynamic projects at Tech Mahindra, and currently leading MIS operations at LMGI Skill Division, my journey reflects adaptability, growth, and a commitment to delivering impactful digital solutions.",
   items: [
     { company: "KVT", position: "React Trainee", duration: "2020-2021" },
     {
@@ -38,7 +38,7 @@ const experience = {
       position: "ReactJs & Manual Tester",
       duration: "2021-2023",
     },
-    { company: "Macrow Solutions", position: "Front End Developer", duration: "2021-2023" },
+    // { company: "Macrow Solutions", position: "Front End Developer", duration: "2021-2023" },
     { company: "LMGI SKILL DIVISION", position: "MIS-Head", duration: "2024-Present" },
   ],
 };
@@ -47,7 +47,7 @@ const education = {
   icon: "/assets/resume/badge.svg",
   title: "My education",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus pariatur sint eos praesentium magni nihil hic nobis ipsum! Nesciunt laborum saepe vero molestiae cum minus blanditiis voluptatem molestias id commodi!",
+  "My educational journey reflects a strong foundation in computer applications and a passion for continuous learning. From earning formal degrees in BCA and MCA to completing industry-relevant certifications and online bootcamps, I’ve consistently expanded my skillset. My academic background is complemented by hands-on experience with front-end technologies, full stack development, and cloud computing through self-paced learning and professional certifications.",
   items: [
     {
       institution: "Online Course Platform",
@@ -57,7 +57,7 @@ const education = {
     { institution: "Codeacademy", degree: "Front-end Track", duration: "2024" },
     { institution: "Online Course", degree: "Programming Course", duration: "2023" },
     {
-      institution: "Tech Institute",
+      institution: "Tech Mahindra-SMART",
       degree: "Certified Microsoft Azure-900",
       duration: "2022",
     },
@@ -74,7 +74,7 @@ const education = {
 const skills = {
   title: "My Skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus pariatur sint eos praesentium magni nihil hic nobis ipsum! Nesciunt laborum saepe vero molestiae cum minus blanditiis voluptatem molestias id commodi!",
+  "I specialize in front-end development with a strong command of modern web technologies like HTML5, CSS3, JavaScript, and frameworks such as React.js and Next.js. My design approach is enhanced by Tailwind CSS and Figma, allowing me to craft responsive, user-friendly interfaces. I also have experience with backend fundamentals using Node.js, enabling me to contribute across the full stack when needed.",
   skillList: [
     { icon: <FaHtml5 />, name: "HTML5" },
     { icon: <FaCss3 />, name: "CSS3" },

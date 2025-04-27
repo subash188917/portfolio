@@ -7,25 +7,25 @@ const services = [
     {
         num:'01',
         title:'web Development',
-        description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel magni dolor sed .",
+        description:"Passionate Web Developer with hands-on experience in building responsive, high-performance web applications using React, Next.js, and Tailwind CSS. Skilled in transforming complex requirements into elegant frontend solutions with a focus on performance, usability, and scalability.",
         href:""
     },
     {
         num:'02',
-        title:'UI/UX Design',
-        description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel magni dolor sed .",
+        title:'Testing',
+        description:"Detail-oriented QA Professional with hands-on experience in manual testing and API validation using tools like Postman.Skilled in writing and executing comprehensive test cases, identifying bugs, and ensuring high-quality releases across web applications.Familiar with agile processes and test management tools like JIRA and Zephyr for seamless defect tracking and reporting.",
         href:""
     },
     {
         num:'03',
-        title:'Logo Design',
-        description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel magni dolor sed .",
+        title:'Content Creation',
+        description:"Creative Content Creator specialized in crafting engaging, SEO-friendly content for educational and professional platforms.Experienced in building persuasive content strategies for college admissions, training programs, and brand storytelling.Delivers impactful visuals, compelling copy, and tailored messaging to attract, inform, and convert your target audience.",
         href:""
     },
     {
         num:'04',
-        title:'SEO',
-        description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel magni dolor sed .",
+        title:'MIS-Head',
+        description:"MIS Head with experience in managing data operations, reporting, and technical support for major government and education projects. Skilled in ensuring accurate data flow, coordinating with stakeholders, and supporting strategic decisions. Hands-on in handling dashboards, resolving system issues, and leading teams across platforms like DDUGKY, PMKVY 4.0, NIWE, and YTS.",
         href:""
     },
 ]

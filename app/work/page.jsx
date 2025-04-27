@@ -38,7 +38,7 @@ const projects = [
         title:"project 2",
         description:
         "Lorem ipsum dolor sit amet consectetur, adipisicing elit.", 
-        stack:[{name:"Next.js"},{name:"Tailwinf.css"},{name:"Node.js"},
+        stack:[{name:"Next.js"},{name:"Tailwind.css"},{name:"Node.js"},
         ],
         image:'/assets/work/thumb2.png',
         live:"",
