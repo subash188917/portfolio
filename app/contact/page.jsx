@@ -63,12 +63,11 @@ const Contact = () => {
               method="POST"
               className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl"
             >
-              <h3 className="text-4xl text-accent">Let's work together</h3>
+              <h3 className="text-4xl text-accent">Let&apos;s work together</h3>
               <p className="text-white/60">
-                Have an idea or project in mind? I'm always open to collaborating
-                on exciting and meaningful work. Whether you're building something
-                from scratch or need help enhancing an existing product, let's
-                connect and create something amazing together.
+                Have an idea or project in mind? I&apos;m always open to collaborating
+                on exciting and meaningful work. Whether you&apos;re building something
+                from scratch or need help enhancing an existing product, Let&apos;s Connect and create something amazing together.
               </p>
 
               {/* Input fields */}
